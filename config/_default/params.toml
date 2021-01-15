@@ -89,8 +89,8 @@ show_related = {post = true}
 
 ## Enter contact details (optional). To hide a field, clear it to "".
 email = "simon.murphy@sydney.edu.au"
-phone = "o: +61290365104"
-phone = "m: +61426890131"
+office = "+61290365104"
+mobile = "+61426890131"
 #
 ## Address
 ## For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
